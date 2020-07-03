@@ -1,0 +1,15 @@
+{
+    "name": "bangshortcut",
+    "author": {
+        "name": "MoaufmKlo",
+        "url": "http://moaufmklo.com"
+    },
+    "main": "index.js",
+    "dependencies": {
+        "discord.js": "latest",
+        "got": "latest"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
