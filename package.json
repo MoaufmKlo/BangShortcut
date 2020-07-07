@@ -7,7 +7,8 @@
     "main": "index.js",
     "dependencies": {
         "discord.js": "latest",
-        "got": "latest"
+        "got": "latest",
+        "dblapi.js": "latest"
     },
     "scripts": {
         "start": "node index.js"
